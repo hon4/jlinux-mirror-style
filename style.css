@@ -1,0 +1,21 @@
+#header {
+	height: 81px;
+	background: url('/pic/bar_fill.png');
+}
+
+#head_logo {
+	height: 81px;
+	vertical-align: baseline;
+}
+
+a {
+	color: #4C6F64;
+}
+
+a:focus {
+	color: #6EA895;
+}
+
+img {
+	vertical-align: -5px;
+}
